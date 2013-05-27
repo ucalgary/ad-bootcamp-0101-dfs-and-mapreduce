@@ -1,1 +1,2 @@
-# AD Bootcamp Session 101: Distributed File System and MapReduce
+**AD Bootcamp Session 101**
+# Distributed File Systems and MapReduce
