@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Exercise (using EMR)"
-published: false
+published: true
 classes:
  - slide
 data:
