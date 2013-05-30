@@ -11,4 +11,4 @@ data:
 
 ---
 
-![MapReduce Diagram]({{ site.url }}/assets/mapreduce.png)
+![MapReduce Diagram](assets/mapreduce.png)

@@ -11,4 +11,4 @@ data:
 
 ---
 
-![Video Compression Diagram]({{ site.url }}/assets/example-video-compression.png)
+![Video Compression Diagram](assets/example-video-compression.png)

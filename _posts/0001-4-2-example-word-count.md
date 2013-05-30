@@ -11,4 +11,4 @@ data:
 
 ---
 
-![Word Count Diagram]({{ site.url }}/assets/example-word-count.png)
+![Word Count Diagram](assets/example-word-count.png)
